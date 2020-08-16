@@ -1,0 +1,64 @@
+{
+  "productos": [
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": 250,
+      "id": 5
+    },
+    {
+      "nombre": "Rib Eye 1kg",
+      "precio": 750,
+      "id": 6
+    },
+    {
+      "nombre": "Jugo de piña",
+      "precio": 15,
+      "id": 7
+    },
+    {
+      "nombre": "Jugo de Naranja",
+      "precio": 25,
+      "id": 8
+    },
+    {
+      "nombre": "Jugo de limón",
+      "precio": 13,
+      "id": 9
+    },
+    {
+      "nombre": "Té",
+      "precio": 8,
+      "id": 10
+    },
+    {
+      "nombre": "Tequila",
+      "precio": 5,
+      "id": 11
+    },
+    {
+      "nombre": "Ocultar alerta",
+      "precio": 5,
+      "id": 12
+    },
+    {
+      "nombre": "sdf",
+      "precio": 3,
+      "id": 13
+    },
+    {
+      "nombre": "sadf",
+      "precio": 4,
+      "id": 14
+    },
+    {
+      "nombre": "Otro producto",
+      "precio": 2,
+      "id": 15
+    },
+    {
+      "nombre": "Producto ahora si sin error",
+      "precio": 2,
+      "id": 16
+    }
+  ]
+}
